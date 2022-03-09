@@ -1,11 +1,10 @@
-// #ifndef MAT_HPP
-// #define MAT_HPP
+#ifndef MAT_HPP
+#define MAT_HPP
 
 #include <string>
+using namespace std;
 namespace ariel {
-    std::string mat(int ,int ,char ,char );
+    string mat(int ,int ,char ,char );
 }
 
-    
-
-// #endif
+#endif
